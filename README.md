@@ -31,7 +31,7 @@ Running the Game:
 
 1.Open the folder containing the Bomb Defusal Game files.
 2.Locate the file named "Bomb_Defusal_game.py".
-3.Run the game by double-clicking on "Bomb_Defusal_game.py" or executing it through the terminal/command prompt using the following command:
+3.Run the game by double-clicking on "Bomb_Defusal_game.py" or "Bomb_Defusal_game.exe" or executing it through the terminal/command prompt using the following command:
 
 **Future Enhancements:**
 1. **Advanced Gameplay Modes:** Introduce additional gameplay modes and challenges to enhance replay value.
