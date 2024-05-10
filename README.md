@@ -27,6 +27,12 @@ System Requirements:
 3.Screen Size: 15.6 inches or larger for desktop or laptop
 4.Pygame Library: Pygame must be installed to run the game.
 
+Running the Game:
+
+1.Open the folder containing the Bomb Defusal Game files.
+2.Locate the file named "Bomb_Defusal_game.py".
+3.Run the game by double-clicking on "Bomb_Defusal_game.py" or executing it through the terminal/command prompt using the following command:
+
 **Future Enhancements:**
 1. **Advanced Gameplay Modes:** Introduce additional gameplay modes and challenges to enhance replay value.
 2. **Improved Graphics and Sound:** Enhance the visual and auditory experience with improved graphics and sound effects.
